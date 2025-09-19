@@ -13,3 +13,6 @@ StatPad is an interactive quiz application that lets users test their knowledge 
 2. Navigate into the project directory:
 3. Compile the Java program:
 4. Run the program:
+
+## Screenshots
+Here is StatPad in action
