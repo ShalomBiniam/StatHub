@@ -10,3 +10,6 @@ StatPad is an interactive quiz application that lets users test their knowledge 
 
 ## How to Run
 1. Clone the repository:
+2. Navigate into the project directory:
+3. Compile the Java program:
+4. Run the program:
