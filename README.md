@@ -23,6 +23,4 @@ Here’s StatPad in action:
 ![Questions](src/photos/Questions.png)
 ![Quiz Mode](src/photos/QuizMode.png)
 ![Login Screen](src/photos/LoginScreen.png)
-![Home Page](src/photos/HomePage.png)
-![Analytics](src/photos/Analytics.png)
 ![Revision](src/photos/Revision.png)
