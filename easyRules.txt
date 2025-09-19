@@ -1,0 +1,5 @@
+1) What is a carry?,The ball handler letting their hand go underneath the ball while dribbling
+2) What is a travel?,The ball handler taking additional steps once they have collected the ball and already taken two steps
+3) What is out of bounds?,When the ball leaves restricted area during a possession
+4) What is goaltend?,Players interacting with the rim or net or ball once a ball has reached the peak of its shot and is on its way down
+5) What is a common foul?,A defensive players hands or legs making contact with the offensive players body
