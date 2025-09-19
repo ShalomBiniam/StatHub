@@ -15,4 +15,14 @@ StatPad is an interactive quiz application that lets users test their knowledge 
 4. Run the program:
 
 ## Screenshots
-Here is StatPad in action
+Here is StatPad in action!!!
+## Screenshots
+
+Here’s StatPad in action:
+
+![Questions](src/photos/Questions.png)
+![Quiz Mode](src/photos/QuizMode.png)
+![Login Screen](src/photos/LoginScreen.png)
+![Home Page](src/photos/HomePage.png)
+![Analytics](src/photos/Analytics.png)
+![Revision](src/photos/Revision.png)
